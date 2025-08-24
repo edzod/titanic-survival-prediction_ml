@@ -23,8 +23,8 @@ Built in two phases: **Part A (baseline)** - **Part B (advanced)** with richer f
   Advanced phase include tuned tree-based models and regularized linear models.
 
 ## Results
-- Local CV (accuracy/recall/F1): ⟨fill⟩  
-- Kaggle Public LB: ⟨fill⟩  
+- Local CV (accuracy/precision/recall/F1): Accuracy : 0.8436 , Precision: 0.8407 , Recall:0.7294 , F1 score : 0.7811
+- Kaggle Public LB: 9313
 - Notes: Advanced features improved ⟨metric⟩ by ⟨Δ⟩ vs. baseline.
 
 ## How to run
