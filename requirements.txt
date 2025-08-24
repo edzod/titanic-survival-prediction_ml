@@ -1,0 +1,12 @@
+## Requirements
+The project requires the following Python packages:
+
+- pandas – data manipulation
+- numpy – numerical computations
+- scikit-learn – ML models
+- matplotlib – plotting
+- seaborn – statistical visualization
+
+To install all dependencies, run:
+```bash
+pip install -r requirements.txt
